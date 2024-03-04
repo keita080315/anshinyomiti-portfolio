@@ -30,3 +30,8 @@
 - 帰宅開始を自動で検知し、見守るユーザーに通知
 - 最も危険な帰宅中のみを位置情報共有することによりプライバシーへの配慮
 - 夜道の不安に共感しやすい・夜道の不安を吐き出しやすいUIと機能
+
+### リンク
+- https://anshinyomichi.studio.site/ (旧バージョンのHP)
+- https://note.com/ishity__/n/n8a67eba451f4 （開発者の想い）
+- https://www.ipa.go.jp/jinzai/mitou/it/2023/gaiyou_ok-1.html （未踏紹介ページ）
